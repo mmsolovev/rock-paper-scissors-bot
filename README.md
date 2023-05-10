@@ -1,2 +1,2 @@
-# rock_paper_scissors_bot
-🤖 🎮 Test telegram bot
+# rock-paper-scissors-bot
+🤖 🎮 Telegram bot for play rock-paper-scissors game.
